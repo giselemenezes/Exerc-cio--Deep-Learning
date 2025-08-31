@@ -2,7 +2,7 @@
 
 Repositório destinado à resolução da **Lista de Exercícios da disciplina Aprendizado Profunddo**.  
 
-## 📌 Conteúdo
+##  Conteúdo
 Este repositório reúne implementações práticas de redes neurais em diferentes contextos:
 
 1. **Perceptron Multicamadas (MLP)**
@@ -19,7 +19,7 @@ Este repositório reúne implementações práticas de redes neurais em diferent
 4. **Redes Recorrentes (RNNs – LSTM/GRU)**
    - Análise de sentimentos em postagens do Twitter (Sentiment140).
 
-## 🎯 Objetivo
+##  Objetivo
 O repositório serve como ambiente de estudo e prática de técnicas de **Aprendizado Profundo**, incluindo:
 - Pré-processamento de dados.
 - Treinamento e validação de modelos.
